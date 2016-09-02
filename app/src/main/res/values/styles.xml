@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CalculatorButtonStyle" >
+        <item name="android:background" >@drawable/calculator_btn_bg</item>
+
+    </style>
+
 </resources>
